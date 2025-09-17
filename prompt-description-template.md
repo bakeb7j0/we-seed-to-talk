@@ -1,8 +1,7 @@
 # Prompt Description Template
 
-- **Name:** (give your prompt a unique name here)
-- **Purpose:** (what is this prompt for?)
+- **Name:** (unique prompt name)
+- **Purpose:** (what this prompt is for)
 
 ## Prompt
-
-> (paste the actual seed prompt here, inside a blockquote)
+> (paste the actual prompt here)
