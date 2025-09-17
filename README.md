@@ -1,2 +1,15 @@
-# we-seed-to-talk
-where half-baked, ill-reputed, and occasionally brilliant prompt seeds congregate waiting to get planted deep in your agent.  proceed with caution and fertilizer
+# we-seed-to-talk 🌱
+
+Welcome to the seediest corner of GitHub.
+This is where prompt seeds congregate, waiting to be planted, forked, or quarantined.
+
+## How to use this repo
+
+- One prompt per Markdown file.
+- Use \`prompt-description-template.md\` as a scaffold when adding new prompts.
+- To add a new prompt:
+  1. Create a new \`.md\` file following the template.
+  2. Run \`mash-it.sh\` to regenerate the README index and commit.
+
+## Available Prompts
+- [seed-mash-it-commit.md](seed-mash-it-commit.md)
